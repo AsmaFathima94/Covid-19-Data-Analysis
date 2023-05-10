@@ -1,4 +1,4 @@
-# SQL-Portfolio-Project
+# SQL-Project
 
 Project Name:  Covid-19 Data
 
